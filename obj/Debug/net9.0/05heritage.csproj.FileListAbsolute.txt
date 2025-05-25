@@ -1,0 +1,14 @@
+C:\POO\05heritage\bin\Debug\net9.0\05heritage.exe
+C:\POO\05heritage\bin\Debug\net9.0\05heritage.deps.json
+C:\POO\05heritage\bin\Debug\net9.0\05heritage.runtimeconfig.json
+C:\POO\05heritage\bin\Debug\net9.0\05heritage.dll
+C:\POO\05heritage\bin\Debug\net9.0\05heritage.pdb
+C:\POO\05heritage\obj\Debug\net9.0\05heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\05heritage\obj\Debug\net9.0\05heritage.AssemblyInfoInputs.cache
+C:\POO\05heritage\obj\Debug\net9.0\05heritage.AssemblyInfo.cs
+C:\POO\05heritage\obj\Debug\net9.0\05heritage.csproj.CoreCompileInputs.cache
+C:\POO\05heritage\obj\Debug\net9.0\05heritage.dll
+C:\POO\05heritage\obj\Debug\net9.0\refint\05heritage.dll
+C:\POO\05heritage\obj\Debug\net9.0\05heritage.pdb
+C:\POO\05heritage\obj\Debug\net9.0\05heritage.genruntimeconfig.cache
+C:\POO\05heritage\obj\Debug\net9.0\ref\05heritage.dll
